@@ -7,3 +7,7 @@ This repository is a clone of: https://github.com/ECE444-2022Fall/Assignment_1_s
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/62436455/193471790-95f0a5c6-dd69-4e15-92d8-6fb42fb48707.png">
 
 ## Activity-3
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/62436455/193472796-d7ee19af-1a36-41eb-816a-8ff1c1bac981.png">
+
+## Activity-4
