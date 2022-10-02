@@ -8,6 +8,6 @@ This repository is a clone of: https://github.com/ECE444-2022Fall/Assignment_1_s
 
 ## Activity-3
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/62436455/193473001-e16e08e2-c67e-4f8c-8f48-c6df32183dfd.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/62436455/193473035-1250a025-60c7-4c1e-8649-ba93a13174fa.png">
 
 ## Activity-4
